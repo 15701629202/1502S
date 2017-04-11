@@ -1,0 +1,2 @@
+include ':app', ':fsj_library', ':app2_slidingmenu', ':app3_xutils', ':app4_zhoukao1', ':xlistviewlibrary'
+include ':slidelibrary'
